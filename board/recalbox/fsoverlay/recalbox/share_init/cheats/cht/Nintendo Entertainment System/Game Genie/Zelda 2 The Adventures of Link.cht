@@ -1,11 +1,11 @@
 cheats = 14 
 
-cheat0_desc = "Link Has Infinite Lives"
-cheat0_code = "SZKGKXVK"
+cheat0_desc = "Link Has Infinite Energy"
+cheat0_code = "SZUTYUSE"
 cheat0_enable = false 
 
-cheat1_desc = "Link Starts With 1 Life"
-cheat1_code = "PASKPLLA"
+cheat1_desc = "Infinite Magic"
+cheat1_code = "SXNASSSE"
 cheat1_enable = false 
 
 cheat2_desc = "Link Starts With 6 Lives"
